@@ -1,0 +1,7 @@
+{
+  "name": "flunkyApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
